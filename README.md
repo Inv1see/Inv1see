@@ -47,9 +47,6 @@ Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### :fire: My Stats :
-[![Codewars](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)]((https://www.codewars.com/users/Inv1se))
-
 ---
 
 <!-- ### :writing_hand: Blog Posts : -->
