@@ -24,19 +24,7 @@
 
 ---
 
-<style>
-  *{
-    font-family: 'Cormorant', serif;
-    font-family: 'Great Vibes', cursive;
-    font-family: 'Kanit', sans-serif;
-    font-family: 'Lobster', cursive;
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Sedgwick Ave Display', cursive;
-    font-family: 'Ubuntu', sans-serif;
-  }
-</style>
+
 
 
 ### :woman_technologist: About Me :
