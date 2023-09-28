@@ -58,7 +58,7 @@ Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ---
 
 ### :fire: My Stats :
-![Codewars](https://github.r2v.ch/codewars?user=Inv1see)
+![Codewars](https://github.r2v.ch/codewars?user=Inv1se)
 
 ---
 
