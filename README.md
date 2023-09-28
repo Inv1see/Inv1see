@@ -40,7 +40,7 @@ Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ---
 
 ### :fire: My Stats :
-[![Codewars](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)]((https://www.codewars.com/users/Inv1se))
+![Codewars](https://github.r2v.ch/codewars?user=Inv1see)
 
 ---
 
