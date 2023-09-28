@@ -20,6 +20,14 @@
 
 ---
 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,500&family=Great+Vibes&family=Kanit:ital,wght@1,300&family=Lobster&family=Montserrat:wght@300;500;600&family=Poppins:ital,wght@0,100;0,300;0,600;1,100;1,400;1,500;1,600;1,800&family=Roboto:wght@300;500;700&family=Sedgwick+Ave+Display&family=Ubuntu&display=swap');
+  *{
+    font-family:"Poppins",sans-serif;
+    font-size:20px;
+  }
+</style>
+
 ### :woman_technologist: About Me :
 Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
